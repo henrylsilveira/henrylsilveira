@@ -42,10 +42,10 @@
 <br>
 
 <div align="center">
-<a><img height=220 align="left"
+<a><img height=195 align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrylsilveira&langs_count=10&theme=gotham&border_radius=8.5&hide_border=true&layout=compact&bg_color=43,020024,0c3c0d"
       alt="henrylsilveira" /></a>
-<a><img height=220 align="right" src="https://github-readme-stats.vercel.app/api?username=henrylsilveira&show_icons=true&locale=en&text_color=ffffff&repo=convoychat0&theme=gotham&border_radius=8.5&hide_border=true&bg_color=43,020024,0c3c0d"
+<a><img height=195 align="right" src="https://github-readme-stats.vercel.app/api?username=henrylsilveira&show_icons=true&locale=en&text_color=ffffff&repo=convoychat0&theme=gotham&border_radius=8.5&hide_border=true&bg_color=43,020024,0c3c0d"
       alt="henrylsilveira" /></a>
  
         
