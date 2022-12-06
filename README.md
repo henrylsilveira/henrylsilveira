@@ -53,5 +53,6 @@
 <div align="center">
  <a><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=henrylsilveira&theme=dark&date_format=M%20j%5B%2C%20Y%5D0&theme=gotham&border_radius=8.5&hide_border=true&bg_color=43,020024,0c3c0d" alt="henrylsilveira" /></a>
 </div>
-
-![Snake animation](https://github.com/henrylsilveira/henrylsilveira/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img align="center" src="https://github.com/henrylsilveira/henrylsilveira/blob/output/github-contribution-grid-snake.svg" alt="henrylsilveira" />
+</div>
