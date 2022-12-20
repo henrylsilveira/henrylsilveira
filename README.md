@@ -10,7 +10,7 @@
 <h1 align="left">Connect with me:</h1>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/henry-le%C3%A3o-a09291193/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/henryleao"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
    <a href="mailto:henrylsilveira@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
 
 </p>
